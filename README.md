@@ -8,11 +8,11 @@
 
 I am a Brazilian Software Engineer.
 - :school: I studied Information System in Belo Horizonte, Brazil.
-- 🔭 I’m currently working on ... Not working
-- 🌱 I’m currently learning ... Typescript
+- 🔭 I’m currently working on: Not working
+- 🌱 I’m currently learning: Typescript
 - 👯 I’m looking to collaborate on php projects
-- 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Ride a bike when get bored
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Play videogame when get bored
 <br/>
 
 ### Languages and Tools:
