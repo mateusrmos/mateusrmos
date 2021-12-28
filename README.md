@@ -5,8 +5,8 @@
 <!-- **mateusrmos/mateusrmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I am a Brazilian Software Engineer.
-- :school: I studied Information System in Belo Horizonte, Brazil.
-- 🔭 I’m currently working on: Not working
+- :school: I studied Information Systems in Belo Horizonte, Brazil.
+- 🔭 I’m currently working on: BairesDev
 - 🌱 I’m currently learning: Typescript
 - 👯 I’m looking to collaborate on php projects
 - 😄 Pronouns: He/Him
