@@ -6,7 +6,7 @@
 
 I am a Brazilian Software Engineer.
 - :school: I studied Information Systems in Belo Horizonte, Brazil.
-- 🔭 I’m currently working on: BairesDev
+- 🔭 I’m currently working on: None
 - 🌱 I’m currently learning: Typescript
 - 👯 I’m looking to collaborate on php projects
 - 😄 Pronouns: He/Him
